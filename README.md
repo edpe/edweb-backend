@@ -1,3 +1,3 @@
-# Strapi application
+# edweb backend
 
-A quick description of your strapi application
+[Strapi](https://strapi.io/) back end for https://github.com/edpe/edweb-frontend

@@ -2,7 +2,7 @@
   "name": "backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Back end for https://github.com/edpe/edweb-frontend",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -27,7 +27,7 @@
     "strapi-plugin-graphql": "3.6.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Ed Perkins"
   },
   "strapi": {
     "uuid": "1e4b10b9-63bf-4055-8255-3bdb10612373",
